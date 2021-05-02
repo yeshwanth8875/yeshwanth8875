@@ -8,7 +8,7 @@
 
 TELEGRAM @Cutozki 
 
-[" CONTACT" ](https://t.me/Cutozki2)
+[ CONTACT ME ON TELEGRAM](https://t.me/Cutozki2)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
