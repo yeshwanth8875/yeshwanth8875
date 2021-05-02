@@ -16,3 +16,4 @@ TELEGRAM @Cutozki
 yeshwanth8875/yeshwanth8875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
