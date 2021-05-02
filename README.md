@@ -10,7 +10,7 @@ TELEGRAM @Cutozki
 
 
 
-
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <!---
 yeshwanth8875/yeshwanth8875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
